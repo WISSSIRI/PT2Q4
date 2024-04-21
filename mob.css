@@ -1,0 +1,62 @@
+body {
+    background-color: #F7DED0;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    color: #FF8E8F ;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFB0B0;
+}
+
+h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightcoral;
+}
+
+p {
+    font-family: 'Lucida Sans Unicode', Arial, sans-serif;
+    color: #77B0AA;
+}
+
+
+
+input[type="submit"] {
+    padding: 8px 8px;
+    background-color: #FFEBB2;
+    color: #FFC94A;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+input[type="Text"] {
+    padding: 8px 8px;
+    border: 1px solid #FFB0B0;
+    width: 75%;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+input[type="submit"]:hover {
+    background-color: darkorange;
+}
+
+form {
+    margin: 0 auto;
+    box-shadow: black;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 820px;
+     
+}
+
+label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightpink;
+}
